@@ -101,3 +101,4 @@ CLASS net/minecraft/class_2794 net/minecraft/world/gen/chunk/ChunkGenerator
 	METHOD method_28509 generateStrongholdPositions ()V
 	METHOD method_33730 getMinimumY ()I
 	METHOD method_38275 populateBiomes (Ljava/util/concurrent/Executor;Lnet/minecraft/class_2378;Lnet/minecraft/class_5138;Lnet/minecraft/class_2791;)Ljava/util/concurrent/CompletableFuture;
+	METHOD method_38276 getNoiseValueSampler ()Lnet/minecraft/class_6544$class_6552;
